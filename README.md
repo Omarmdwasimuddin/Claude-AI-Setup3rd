@@ -6,4 +6,4 @@
 irm https://ollama.com/install.ps1 | iex
 ```
 
-[ollama](/public/Img/ollama.png)
+![ollama](/public/Img/ollama.png)
