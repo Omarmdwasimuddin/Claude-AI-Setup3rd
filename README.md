@@ -50,3 +50,9 @@ claude --version
 ```
 ollama launch claude --model gpt-oss:20b
 ```
+
+#### Note: gpt-oss:20b er jonno RAM lagbe 13.2GB na hole run korbe na error ashbe. ar gpt-oss:20b er bikolpo holo(2GB RAM er) -
+```
+ollama pull llama3.2:3b
+ollama launch claude --model llama3.2:3b
+```
