@@ -8,6 +8,7 @@
 ```
 irm https://ollama.com/install.ps1 | iex
 ```
+![](/public/Img/powershell.png)
 
 #### click model
 ![](/public/Img/click-Models.png)
