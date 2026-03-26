@@ -8,6 +8,7 @@
 ```
 irm https://ollama.com/install.ps1 | iex
 ```
+#### powershell e install koro
 ![](/public/Img/powershell.png)
 
 #### click model
@@ -18,3 +19,8 @@ irm https://ollama.com/install.ps1 | iex
 
 #### models copy koro-
 ![](/public/Img/models.png)
+
+#### powershell e paste koro-
+```
+ollama pull model gpt-oss:20b
+```
