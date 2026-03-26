@@ -24,3 +24,29 @@ irm https://ollama.com/install.ps1 | iex
 ```
 ollama pull gpt-oss:20b
 ```
+
+#### powershell e check koro-
+```
+ollama --version
+```
+
+#### click Claude Code
+![](/public/Img/clickClaudeCode.png)
+
+#### powershell e install koro (windows)
+```
+irm https://claude.ai/install.ps1 | iex
+```
+
+#### powershell e check koro-
+```
+claude --version
+```
+
+#### copy koro-
+![](/public/Img/quicksetup.png)
+
+#### powershell e daw-
+```
+ollama launch claude --model gpt-oss:20b
+```
