@@ -50,6 +50,9 @@ claude --version
 ```
 ollama launch claude --model gpt-oss:20b
 ```
+#### click Enter for next steps
+![](/public/Img/1st.png)
+![](/public/Img/3rd.png)
 
 #### Note: gpt-oss:20b er jonno RAM lagbe 13.2GB na hole run korbe na error ashbe. ar gpt-oss:20b er bikolpo holo(2GB RAM er) -
 ```
