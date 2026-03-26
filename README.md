@@ -22,5 +22,5 @@ irm https://ollama.com/install.ps1 | iex
 
 #### powershell e paste koro-
 ```
-ollama pull model gpt-oss:20b
+ollama pull gpt-oss:20b
 ```
