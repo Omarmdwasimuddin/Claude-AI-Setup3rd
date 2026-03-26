@@ -12,8 +12,5 @@ irm https://ollama.com/install.ps1 | iex
 #### click model
 ![](/public/Img/click-Models.png)
 
-#### click model
-![](/public/Img/click-Models.png)
-
-#### search-
+#### search- gpt-oss and click gpt-oss
 ![](/public/Img/gpt-oss.png)
