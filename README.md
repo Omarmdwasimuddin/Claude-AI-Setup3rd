@@ -14,3 +14,6 @@ irm https://ollama.com/install.ps1 | iex
 
 #### search- gpt-oss and click gpt-oss
 ![](/public/Img/gpt-oss.png)
+
+#### models copy koro-
+![](/public/Img/models.png)
