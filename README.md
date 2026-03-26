@@ -8,3 +8,12 @@
 ```
 irm https://ollama.com/install.ps1 | iex
 ```
+
+#### click model
+![](/public/Img/click-Models.png)
+
+#### click model
+![](/public/Img/click-Models.png)
+
+#### search-
+![](/public/Img/gpt-oss.png)
